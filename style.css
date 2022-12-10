@@ -1,24 +1,21 @@
-body
-  {
-  background-color:white;
-  }
-h1
-  {
-  background-color:DodgerBlue;"
-  }
-.p1 {
-  font-family: "Times New Roman", Times, serif;
+a {
+  color: black;
+  text-decoration: none;
 }
-
-.p2 {
-  font-family: Arial, Helvetica, sans-serif;
+h1 {
+  font-size: 45px;
+  text-align: center;
+  border-bottom: 1px solid gray;
+  margin: 0;
+  padding: 20px;
 }
-
-.p3 {
-  font-family: "Lucida Console", "Courier New", monospace;
+#active {
+  color: red;
 }
-
-
+.blue {
+  color: blue;
+}
+<!--
 .h1 {
   width: 300px;
   height: 100px;
@@ -31,3 +28,4 @@ h1
   padding: 50px;
   border: 1px solid red;
 }
+-->
