@@ -1,6 +1,9 @@
 a {
-  color: black;
-  text-decoration: none;
+  color: blue;
+  font-size: 20px;
+  border-bottom: 5px solid gray;
+  margin: 0;
+  padding: 20px;
 }
 h1 {
   font-size: 50px;
