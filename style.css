@@ -17,3 +17,17 @@ h1
 .p3 {
   font-family: "Lucida Console", "Courier New", monospace;
 }
+
+
+.h1 {
+  width: 300px;
+  height: 100px;
+  border: 1px solid blue;
+}
+
+.h2 {
+  width: 300px;
+  height: 100px;  
+  padding: 50px;
+  border: 1px solid red;
+}
